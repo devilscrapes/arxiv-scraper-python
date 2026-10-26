@@ -1,0 +1,9 @@
+{
+  "searchQuery": "cat:cs.AI",
+  "sortBy": "submittedDate",
+  "sortOrder": "descending",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
